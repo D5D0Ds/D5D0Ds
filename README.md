@@ -13,7 +13,7 @@
 <a href="https://codeforces.com/profile/madhavchoudhary0911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="madhavchoudhary0911" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/algochef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="algochef" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@madhavchoudhary0911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@madhavchoudhary0911" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/1929097/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="1929097/profile" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/d5d0ds/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="d5d0ds/profile" height="30" width="40" /></a>
 </p>
 
 <!-- ### ***Languages and Tools:***
